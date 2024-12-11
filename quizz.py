@@ -8,12 +8,6 @@ questions = [
         "options": ["a", "b", "c", "d"],
         "correct_answer": "a"
     },
-    # Iļja Karpovs
-    {
-        "question": "Cik briežu velk Ziemassvētku ragavas?",
-        "options": ["5", "7", "9", "12"],
-        "correct_answer": "9"
-    },
     # Daņilovs Roberts
     {
         "question": "",
