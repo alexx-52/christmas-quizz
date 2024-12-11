@@ -8,6 +8,12 @@ questions = [
         "options": ["a", "b", "c", "d"],
         "correct_answer": "a"
     },
+        # Burovs Rodions
+    {
+        "question": "",
+        "options": ["a", "b", "c", "d"],
+        "correct_answer": "a"
+    },
     # Daņilovs Roberts
     {
         "question": "",
