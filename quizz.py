@@ -8,6 +8,12 @@ questions = [
         "options": ["a", "b", "c", "d"],
         "correct_answer": "a"
     },
+    # Iļja Karpovs
+    {
+        "question": "",
+        "options": ["a", "b", "c", "d"],
+        "correct_answer": "a"
+    },
     # Daņilovs Roberts
     {
         "question": "",
@@ -147,7 +153,7 @@ def run_quiz():
     for i, question_data in enumerate(questions, 1):
         if question_data['question'] == "":
           continue
-        
+
         print(f"Jautājums {i}: {question_data['question']}")
         for j, option in enumerate(question_data['options'], 1):
             print(f"  {j}. {option}")
