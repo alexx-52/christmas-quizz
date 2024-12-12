@@ -118,9 +118,9 @@ questions = [
     },
     # Roguļskis Aleksandrs
     {
-        "question": "",
-        "options": ["a", "b", "c", "d"],
-        "correct_answer": "a"
+        "question": "Cik ir dienas adventee?",
+        "options": ["21", "24", "27", "30"],
+        "correct_answer": "24"
     },
     # Švecs Kristians
     {
