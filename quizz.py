@@ -5,7 +5,7 @@ questions = [
     # Ilja Karpovs
     {
         "question": "Cik briezi bija Ziemassvētku ragavas?",
-        "options": ["4", "7", "9", "12"],
+        "options": ["6", "7", "9", "12"],
         "correct_answer": "9"
     },
     # Burovs Rodions
