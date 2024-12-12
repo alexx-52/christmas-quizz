@@ -2,11 +2,11 @@ import random
 
 # Questions about Latvia
 questions = [
-    # Burovs Rodions
+    # Ilja Karpovs
     {
-        "question": "",
-        "options": ["a", "b", "c", "d"],
-        "correct_answer": "a"
+        "question": "Cik briezi bija Ziemassvētku ragavas?",
+        "options": ["5", "7", "9", "12"],
+        "correct_answer": "9"
     },
     # Burovs Rodions
     {
